@@ -12,6 +12,6 @@
 
 ### + Another video based on "My Quest" on Scratch.
 
-[![EDS week 2_scratch](http://img.youtube.com/vi/pYgRy5YBYIU/0.jpg)](https://youtu.be/pYgRy5YBYIU)
+[![EDS week 2_scratch](http://img.youtube.com/vi/fJ9q9xS-mkY/0.jpg)](https://youtu.be/fJ9q9xS-mkY)
 
 
