@@ -1,7 +1,7 @@
 # Computer Science Teaching Portfolio 
 
 ## Week 1
-### Click on the image to watch the tutorial on Youtube.
+### + Click on the image to watch the tutorial on Youtube.
 
 [![EDS week 1](http://img.youtube.com/vi/cJW3RWW3nxI/0.jpg)](https://youtu.be/cJW3RWW3nxI)
 
@@ -16,5 +16,8 @@
 
 
 ## Week 3
-### Nested Repeat Video
+### + Nested Repeat Video
 [![EDS_wk3_repeat_frog](http://img.youtube.com/vi/Z7u_lcGpg-k/0.jpg)](https://youtu.be/Z7u_lcGpg-k)
+
+### + Events Video
+[![EDS_wk3_events](http://img.youtube.com/vi/if7lbwFYpD0/0.jpg)](https://youtu.be/if7lbwFYpD0)
