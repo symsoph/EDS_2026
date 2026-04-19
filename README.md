@@ -15,3 +15,6 @@
 [![EDS week 2_scratch](http://img.youtube.com/vi/fJ9q9xS-mkY/0.jpg)](https://youtu.be/fJ9q9xS-mkY)
 
 
+## Week 3
+### Nested Repeat Video
+[![EDS_wk3_repeat_frog](http://img.youtube.com/vi/Z7u_lcGpg-k/0.jpg)](https://youtu.be/Z7u_lcGpg-k)
