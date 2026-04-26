@@ -21,3 +21,7 @@
 
 ### + Events Video
 [![EDS_wk3_events](http://img.youtube.com/vi/if7lbwFYpD0/0.jpg)](https://youtu.be/if7lbwFYpD0)
+
+## Week 4
+### + Variables: 3 Shapes
+[![EDS_wk4_3shapes](http://img.youtube.com/vi/TuBlj4nOCCI/0.jpg)](https://www.youtube.com/watch?v=TuBlj4nOCCI)
