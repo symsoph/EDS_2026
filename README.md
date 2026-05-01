@@ -25,3 +25,7 @@
 ## Week 4
 ### + Variables: 3 Shapes
 [![EDS_wk4_3shapes](http://img.youtube.com/vi/TuBlj4nOCCI/0.jpg)](https://www.youtube.com/watch?v=TuBlj4nOCCI)
+
+## Week 5
+### + Conditional Loops: Ball
+[![EDS_wk5](http://img.youtube.com/vi/BCk6Vu-XV24/0.jpg)](https://www.youtube.com/watch?v=BCk6Vu-XV24)
