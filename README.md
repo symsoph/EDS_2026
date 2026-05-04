@@ -29,3 +29,8 @@
 ## Week 5
 ### + Conditional Loops: Ball
 [![EDS_wk5](http://img.youtube.com/vi/BCk6Vu-XV24/0.jpg)](https://www.youtube.com/watch?v=BCk6Vu-XV24)
+
+## Week 6
+### + If Statements
+[![EDS_wk6](http://img.youtube.com/vi/wkZjYlQ0ag8/0.jpg)](https://www.youtube.com/watch?v=wkZjYlQ0ag8)
+
