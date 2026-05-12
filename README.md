@@ -34,3 +34,7 @@
 ### + If Statements
 [![EDS_wk6](http://img.youtube.com/vi/wkZjYlQ0ag8/0.jpg)](https://www.youtube.com/watch?v=wkZjYlQ0ag8)
 
+## Week 7
+### + Nested IF/ELSE Statements
+[![EDS_wk7](http://img.youtube.com/vi/Ntqh_KQOrw4/0.jpg)](https://www.youtube.com/watch?v=Ntqh_KQOrw4)
+ 
