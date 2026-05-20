@@ -38,3 +38,6 @@
 ### + Nested IF/ELSE Statements
 [![EDS_wk7](http://img.youtube.com/vi/Ntqh_KQOrw4/0.jpg)](https://www.youtube.com/watch?v=Ntqh_KQOrw4)
  
+## Week 8
+### + Compound Conditionals
+[![EDS_wk8](http://img.youtube.com/vi/Q5U4NLQipKM/0.jpg)](https://www.youtube.com/watch?v=Q5U4NLQipKM)
